@@ -11,6 +11,7 @@
   * [Usage](#usage)
   * [Contributing](#contributing)
   * [Tests](#tests)
+  * [Mock-Up](#mock-up)
   * [License](#license)
   
   ## Installation
@@ -36,6 +37,17 @@
   *Tests for application and how to run them:*
   
   There is currently no command to test the application, but you can run npm start and test out the routes in the routes folder via insomnia or postman.
+  
+  ## Mock-Up
+
+
+  The following video shows an example of the application being used from the command line:
+
+
+
+
+
+  [A video thumbnail shows the command-line employee tracker application with a play button overlaying the view.](https://watch.screencastify.com/v/Eq7vForT5Zfo2wAkF24R)
   
   ## License
   
