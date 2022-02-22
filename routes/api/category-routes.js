@@ -77,6 +77,7 @@ router.delete('/:id', async (req, res) => {
   try {
     const categoryData = await Category.findByPk(req.params.id);
     categoryData.destroy()
+    await categoryData.save();
     res.status(200).json(categoryData);
   } catch (err) {
     res.status(400).json(err);

@@ -43,7 +43,7 @@ router.post('/', async (req, res) => {
 router.put('/:id', async (req, res) => {
   // update a tag's name by its `id` value
   try {
-    const tagData = await Category.findByPk(req.params.id);
+    const tagData = await Tag.findByPk(req.params.id);
     tagData.set({
       tag_name: req.body.tag_name,
     })
@@ -58,7 +58,10 @@ router.delete('/:id', async (req, res) => {
   // delete on tag by its `id` value
   try {
     const tagData = await Tag.findByPk(req.params.id);
-    tagData.destroy()
+    tagData.destroy({
+      where: {
+        id: req.params.id,
+      }})
     res.status(200).json(tagData);
   } catch (err) {
     res.status(400).json(err);
