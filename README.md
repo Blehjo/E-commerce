@@ -49,6 +49,9 @@
 
   [A video thumbnail shows the command-line employee tracker application with a play button overlaying the view.](https://watch.screencastify.com/v/Eq7vForT5Zfo2wAkF24R)
   
+  [Part two]
+  (https://watch.screencastify.com/v/Eq7vForT5Zfo2wAkF24R)
+  
   ## License
   
   
