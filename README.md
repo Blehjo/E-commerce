@@ -47,9 +47,9 @@
 
 
 
-  [A video thumbnail shows the command-line employee tracker application with a play button overlaying the view.](https://watch.screencastify.com/v/Eq7vForT5Zfo2wAkF24R)
+  [Part one video. shows the command-line e-commerce application ](https://watch.screencastify.com/v/Eq7vForT5Zfo2wAkF24R)
   
-  [Part two](https://watch.screencastify.com/v/Eq7vForT5Zfo2wAkF24R)
+  [Part two of the command-line e-commerce application ](https://watch.screencastify.com/v/Eq7vForT5Zfo2wAkF24R)
   
   ## License
   
