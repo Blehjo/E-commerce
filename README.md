@@ -47,9 +47,7 @@
 
 
 
-  [Part one video. shows the command-line e-commerce application ](https://watch.screencastify.com/v/Eq7vForT5Zfo2wAkF24R)
-  
-  [Part two of the command-line e-commerce application ](https://watch.screencastify.com/v/Eq7vForT5Zfo2wAkF24R)
+  [Tutorial video demonstrating the e-commerce command-line application ](https://watch.screencastify.com/v/wSh77icnJdPkHatNy0lT)
   
   ## License
   
